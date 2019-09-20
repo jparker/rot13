@@ -1,0 +1,4 @@
+%{
+  "excheck": {:hex, :excheck, "0.6.0", "f8595a8ac2c0abc0d060c1a4fce7d26f41574543366a52d5f3c84de30a69747b", [:mix], [], "hexpm"},
+  "stream_data": {:hex, :stream_data, "0.4.3", "62aafd870caff0849a5057a7ec270fad0eb86889f4d433b937d996de99e3db25", [:mix], [], "hexpm"},
+}
